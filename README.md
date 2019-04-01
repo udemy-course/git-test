@@ -23,3 +23,5 @@ Hi, this is easychen
 Hi, this is tarmogoyf
 
 Hi, this is Nick
+
+Hi, This is Ming.
