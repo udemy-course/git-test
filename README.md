@@ -29,3 +29,5 @@ Hi, This is Ming.
 Hi, This WangShuan
 
 Hi, This is Alex
+
+Hi, This is Richard 
