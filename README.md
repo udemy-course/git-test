@@ -52,4 +52,4 @@ Hi, this is zhow.
 
 Hi, this is Philly.
 
-Hi, this is dendrocyte
+Hi, this is Dendrocyte.
