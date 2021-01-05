@@ -1,3 +1,11 @@
+<!--
+ * @Descripttion: Do not edit
+ * @version: Do not edit
+ * @Author: gaoshuaiqi
+ * @Date: 2021-01-05 19:26:54
+ * @LastEditors: sueRimn
+ * @LastEditTime: 2021-01-05 20:19:31
+-->
 # Hello Git
 
 Hi, This is Peng Xiao
@@ -69,3 +77,5 @@ Hi, this Rajad, Morocco.
 Hi, this is Jeremy Bao.
 
 Hi, this is Ray.
+
+Hi, this is shuai.
