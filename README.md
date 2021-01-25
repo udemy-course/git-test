@@ -34,6 +34,8 @@ Hi, This is Richard
 
 Hi, This is Jeffery 
 
+Hi, this is Chih
+
 Hi, This is Markus Gao
 
 Hi, This is Xie
