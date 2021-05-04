@@ -10,7 +10,7 @@ Yeah, This is a student001
 
 Hi, This is Soa-Yu
 
-HI, This is Hao-Chieh,Kuo 
+HI, This is Hao-Chieh,Kuo
 
 Hi, This is Shih-Hsuan, Peng.
 
@@ -30,9 +30,9 @@ Hi, This WangShuan
 
 Hi, This is Alex
 
-Hi, This is Richard 
+Hi, This is Richard
 
-Hi, This is Jeffery 
+Hi, This is Jeffery
 
 Hi, this is Chih
 
@@ -83,3 +83,5 @@ Hi, this is YPINPIN.
 Hi, this is Terry.
 
 Hi, this is PeiHao, JP.
+
+Hi, this is RickLin.
