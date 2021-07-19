@@ -95,3 +95,5 @@ Hi, this is GeNoX88
 Hi, this is JasonTsai
 
 Hi, this is Andric Yeh.
+
+Hi, this is Tim Chang
