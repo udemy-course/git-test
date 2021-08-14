@@ -101,3 +101,5 @@ Hi, this is Tim Chang
 Hi, this is Li ChengYang
 
 Hi, this is Tony Hu
+
+Hi, this is Kindle Hsieh
