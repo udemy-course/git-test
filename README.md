@@ -99,3 +99,5 @@ Hi, this is Andric Yeh.
 Hi, this is Tim Chang
 
 Hi, this is Li ChengYang
+
+Hi, this is Kindle Hsieh
