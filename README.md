@@ -34,6 +34,8 @@ Hi, This is Richard
 
 Hi, This is Jeffery
 
+Hi, This is Dennis.
+
 Hi, this is Chih
 
 Hi, This is Markus Gao
@@ -125,3 +127,5 @@ Hi, this is Reid.
 Hi, this is Huang Yu Kai Taiwan
 
 Hi, this is Huck.
+
+Hi, this is Dennis
