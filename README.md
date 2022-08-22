@@ -165,3 +165,5 @@ HI, this is paka
 Hi, this is Booster_Wang --(2022/08/18)
 
 Hi, this is Fred (2022/08/21)
+
+HI, this is Shane(2022.08.22)
