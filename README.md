@@ -169,3 +169,5 @@ Hi, this is Fred (2022/08/21)
 HI, this is Shane(2022.08.22)
 
 Hi, This is Scott Chen (2022/08/25)
+
+Hi, This is Rico (2022/08/26)
