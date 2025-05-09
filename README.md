@@ -1,4 +1,5 @@
 # Hello Git
+Hi, this is Lucas.
 
 Hi, This is Moonfa Wang
 
