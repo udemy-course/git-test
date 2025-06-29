@@ -1,4 +1,6 @@
 # Hello Git
+Hi, this is kokoyori-sekainiitamio
+
 Hi, this is itamiokanjiro
 
 Hi, this is Lucas.
